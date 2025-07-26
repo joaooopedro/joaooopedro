@@ -1,12 +1,22 @@
 <h1 align="center">Olá! 👋 Eu sou João Pedro</h1>
 
 <p align="center">
-  🎓 Estudante apaixonado por tecnologia, desenvolvimento web e ciência de dados.<br>
-  💻 Atualmente explorando projetos com <strong>Python</strong>, <strong>Java<strong>, JavaScript</strong> e <strong>React</strong>.<br>
-  🚀 Em constante evolução, buscando sempre aprender e contribuir.
+
+  ### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software — UniAcad/JF  
+- 🔭 No momento, focado em projetos pessoais e aprendizado contínuo  
+- 💡 Interesses: Inteligência Artificial, Desenvolvimento Web, UI/UX  
+- 🧠 Sempre explorando Python, Java, JavaScript e React
+
 </p>
 
 ---
+### 📚 Atualmente estudando:
+
+- 🔥 Estrutura de Dados com Java
+- 🧠 Lógica de Programação Avançada
+- 🌐 APIs REST com Python + Flask
 
 ### 🌐 Conecte-se comigo:
 <p align="left">
