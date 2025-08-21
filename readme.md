@@ -7,7 +7,7 @@
 - 🎓 Estudante de Engenharia de Software — UniAcad/JF  
 - 🔭 No momento, focado em projetos pessoais e aprendizado contínuo  
 - 💡 Interesses: Inteligência Artificial, Desenvolvimento Web, UI/UX  
-- 🧠 Sempre explorando Python, Java, JavaScript e React
+- 🧠 Sempre explorando Python, JavaScript e React
 
 </p>
 
