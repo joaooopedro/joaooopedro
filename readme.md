@@ -1,4 +1,6 @@
-**Desenvolvedor Full Stack**. Construo portais web, APIs e aplicativos, do banco de dados à interface.
+# Desenvolvedor Full Stack
+
+Construo portais web, APIs e aplicativos, do banco de dados à interface.
 
 [LinkedIn](https://www.linkedin.com/in/joaopedrosilvadealmeida00) | [joaojfpedroas@gmail.com](mailto:joaojfpedroas@gmail.com)
 
@@ -18,7 +20,7 @@
 
 ### <img src="assets/logo-loglb.png" height="22" alt=""> LogLB
 
-<a href="https://loglb.com.br"><img src="assets/loglb-app.jpg" width="100%" alt="Site do LogLB: o aplicativo do motorista mostra o comprovante de entrega com o canhoto assinado"></a>
+<a href="https://loglb.com.br"><img src="assets/loglb-inicio.jpg" width="100%" alt="Página inicial do LogLB: cada entrega volta com prova"></a>
 
 Minha principal frente na LBeB. Acompanha a carga rodoviária da nota fiscal até a entrega confirmada com foto do canhoto.
 
