@@ -1,4 +1,4 @@
-<img src="assets/capa.svg" width="100%" alt="joaooopedro. Desenvolvedor Full Stack. Web, mobile e APIs. Engenharia de Software na UniAcademia.">
+<img src="assets/banner.svg" width="100%" alt="joaooopedro. Desenvolvedor Full Stack. Web, mobile e APIs. Engenharia de Software na UniAcademia.">
 
 **Desenvolvedor Full Stack**. Construo portais web, APIs e aplicativos, do banco de dados à interface.
 
