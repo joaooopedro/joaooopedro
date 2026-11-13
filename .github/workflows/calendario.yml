@@ -1,4 +1,4 @@
-name: cobrinha de contribuicoes
+name: calendario de contribuicoes
 
 on:
   schedule:
@@ -16,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - name: gerar svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark&color_snake=#F2F4F7&color_dots=#161b22,#0E2A66,#1B4AA8,#2F6BE0,#8DB6FF
+        run: |
+          mkdir -p dist
+          python3 .github/scripts/calendario.py "${{ github.repository_owner }}" dist/contribuicoes.svg
 
       - name: publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4

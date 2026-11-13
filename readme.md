@@ -25,7 +25,7 @@ Desenvolvedor de Software na LBeB Consultores Associados, desde junho de 2025.
 
 ### <img src="assets/logo-loglb.png" height="22" alt=""> LogLB
 
-<a href="https://loglb.com.br"><img src="assets/loglb.jpg" width="100%" alt="Página inicial do LogLB, com o aplicativo do motorista mostrando um comprovante de entrega"></a>
+<a href="https://loglb.com.br"><img src="assets/loglb.gif" width="100%" alt="Site do LogLB em uso: o aplicativo do motorista mostra o comprovante de entrega com o canhoto assinado"></a>
 
 Minha principal frente na LBeB. Acompanha a carga rodoviária da nota fiscal até a entrega confirmada com foto do canhoto.
 
@@ -53,4 +53,4 @@ React, Vite e Context API. [Abrir o site](https://campusbet-rust.vercel.app/) | 
 
 ## Atividade
 
-<img src="https://raw.githubusercontent.com/joaooopedro/joaooopedro/output/snake.svg" width="100%" alt="Animação do gráfico de contribuições no GitHub">
+<img src="https://raw.githubusercontent.com/joaooopedro/joaooopedro/output/contribuicoes.svg" width="100%" alt="Calendário de contribuições no GitHub">
