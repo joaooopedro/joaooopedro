@@ -1,5 +1,3 @@
-<img src="assets/banner.svg" width="100%" alt="joaooopedro. Desenvolvedor Full Stack. Web, mobile e APIs. Engenharia de Software na UniAcademia.">
-
 **Desenvolvedor Full Stack**. Construo portais web, APIs e aplicativos, do banco de dados à interface.
 
 [LinkedIn](https://www.linkedin.com/in/joaopedrosilvadealmeida00) | [joaojfpedroas@gmail.com](mailto:joaojfpedroas@gmail.com)
