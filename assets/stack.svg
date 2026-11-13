@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 76" width="960" height="76" role="img" aria-label="Stack: C#, .NET, Next.js, React, React Native, TypeScript, Node.js, PostgreSQL, SQL Server, Docker e CI/CD">
+<rect width="960" height="76" fill="#141922"/>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="28" font-weight="600" fill="#F2F4F7">
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1600 0" dur="30s" repeatCount="indefinite"/>
+<text x="0" y="48" textLength="1560" xml:space="preserve">C#  /  .NET  /  Next.js  /  React  /  React Native  /  TypeScript  /  Node.js  /  PostgreSQL  /  SQL Server  /  Docker  /  CI/CD  /</text>
+<text x="1600" y="48" textLength="1560" xml:space="preserve">C#  /  .NET  /  Next.js  /  React  /  React Native  /  TypeScript  /  Node.js  /  PostgreSQL  /  SQL Server  /  Docker  /  CI/CD  /</text>
+</g>
+</svg>

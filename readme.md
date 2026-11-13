@@ -1,50 +1,56 @@
-<h1 align="center">Olá! 👋 Eu sou João Pedro</h1>
+<img src="assets/capa.svg" width="100%" alt="joaooopedro. Desenvolvedor Full Stack. Web, mobile e APIs. Engenharia de Software na UniAcademia.">
 
-<p align="center">
+**Desenvolvedor Full Stack**. Construo portais web, APIs e aplicativos, do banco de dados à interface.
 
-  ### 👨‍💻 Sobre mim
+[LinkedIn](https://www.linkedin.com/in/joaopedrosilvadealmeida00) | [joaojfpedroas@gmail.com](mailto:joaojfpedroas@gmail.com)
 
-- 🎓 Estudante de Engenharia de Software — UniAcad/JF  
-- 🔭 No momento, focado em projetos pessoais e aprendizado contínuo  
-- 💡 Interesses: Inteligência Artificial, Desenvolvimento Web, UI/UX  
-- 🧠 Sempre explorando Python, JavaScript e React
+<img src="assets/stack.svg" width="100%" alt="C#, .NET, Next.js, React, React Native, TypeScript, Node.js, PostgreSQL, SQL Server, Docker e CI/CD">
 
-</p>
+<details>
+<summary>Ver a stack como lista</summary>
 
----
-### 📚 Atualmente estudando:
+| Área | Tecnologias |
+| --- | --- |
+| Front-end | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Mobile | React Native, Expo, Kotlin, Swift |
+| Back-end | C#, .NET, ASP.NET, Node.js, Python, Java |
+| Banco de dados | PostgreSQL, SQL Server, Supabase, Firebase |
+| DevOps e cloud | Git, GitHub Actions, CI/CD, Docker, AWS, Azure |
 
-- 🔥 Estrutura de Dados com Java
-- 🧠 Lógica de Programação Avançada
-- 🌐 APIs REST com Python + Flask
+</details>
 
-### 🌐 Conecte-se comigo:
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaopedrosilvadealmeida00/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+## Trabalho
 
----
+Desenvolvedor de Software na LBeB Consultores Associados, desde junho de 2025.
 
-### 🛠️ Linguagens e Ferramentas:
+### <img src="assets/logo-loglb.png" height="22" alt=""> LogLB
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  
-</p>
+<a href="https://loglb.com.br"><img src="assets/loglb.jpg" width="100%" alt="Página inicial do LogLB, com o aplicativo do motorista mostrando um comprovante de entrega"></a>
 
----
+Minha principal frente na LBeB. Acompanha a carga rodoviária da nota fiscal até a entrega confirmada com foto do canhoto.
 
+Next.js, React Native, Node.js e PostgreSQL. Site: [loglb.com.br](https://loglb.com.br)
 
+## Projetos
 
-### 📊 Linguagens mais usadas
+### CampusBet
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooopedro&layout=compact&theme=tokyonight&langs_count=8&hide_title=true" />
-</p>
+<a href="https://campusbet-rust.vercel.app/"><img src="assets/campusbet.jpg" width="100%" alt="Página inicial do CampusBet, com placar ao vivo e odds"></a>
+
+Apostas esportivas acadêmicas com saldo fictício, histórico, ranking e conquistas.
+
+React, Vite e Context API. [Abrir o site](https://campusbet-rust.vercel.app/) | [Repositório](https://github.com/joaooopedro/campusbet)
+
+### Outros
+
+- **[UniRide](https://github.com/joaooopedro/uniride-mobile)**: carona entre alunos da universidade, com pedido de vaga, chat e avaliação depois da viagem. React Native e Firebase.
+- **[Painel de Vendas](https://github.com/joaooopedro/painel-vendas-mvc)**: cadastro de departamentos, vendedores e vendas, com login e relatórios por período. ASP.NET MVC e SQL Server.
+- **Projeto Abolição**: site do Centro Cultural de Capoeira Abolição, com matrícula on-line. Liderei a equipe. React, TypeScript e Tailwind.
+
+## Formação
+
+<img src="assets/logo-uniacademia.png" height="22" alt=""> **UniAcademia**: Engenharia de Software. 5º período, conclusão em dezembro de 2028.
+
+## Atividade
+
+<img src="https://raw.githubusercontent.com/joaooopedro/joaooopedro/output/snake.svg" width="100%" alt="Animação do gráfico de contribuições no GitHub">

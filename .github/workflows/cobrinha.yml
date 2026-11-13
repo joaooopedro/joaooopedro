@@ -1,0 +1,32 @@
+name: cobrinha de contribuicoes
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: gerar svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#F2F4F7&color_dots=#161b22,#0E2A66,#1B4AA8,#2F6BE0,#8DB6FF
+
+      - name: publicar no branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
