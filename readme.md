@@ -4,9 +4,6 @@
 
 <img src="assets/stack.svg" width="100%" alt="C#, .NET, Next.js, React, React Native, TypeScript, Node.js, PostgreSQL, SQL Server, Docker e CI/CD">
 
-<details>
-<summary>Ver a stack como lista</summary>
-
 | Área | Tecnologias |
 | --- | --- |
 | Front-end | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
@@ -15,15 +12,13 @@
 | Banco de dados | PostgreSQL, SQL Server, Supabase, Firebase |
 | DevOps e cloud | Git, GitHub Actions, CI/CD, Docker, AWS, Azure |
 
-</details>
-
 ## Trabalho
 
-Desenvolvedor de Software na LBeB Consultores Associados, desde junho de 2025.
+<img src="assets/logo-lbeb.png" height="18" alt=""> Desenvolvedor de Software na LBeB Consultores Associados, desde junho de 2025.
 
 ### <img src="assets/logo-loglb.png" height="22" alt=""> LogLB
 
-<a href="https://loglb.com.br"><img src="assets/loglb.gif" width="100%" alt="Site do LogLB em uso: o aplicativo do motorista mostra o comprovante de entrega com o canhoto assinado"></a>
+<a href="https://loglb.com.br"><img src="assets/loglb-app.jpg" width="100%" alt="Site do LogLB: o aplicativo do motorista mostra o comprovante de entrega com o canhoto assinado"></a>
 
 Minha principal frente na LBeB. Acompanha a carga rodoviária da nota fiscal até a entrega confirmada com foto do canhoto.
 
