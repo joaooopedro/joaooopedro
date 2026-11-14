@@ -28,6 +28,14 @@ Next.js, React Native, Node.js e PostgreSQL. Site: [loglb.com.br](https://loglb.
 
 ## Projetos
 
+### Projeto Abolição
+
+<a href="https://projeto-abolicao.vercel.app/"><img src="assets/abolicao.jpg" width="100%" alt="Matrícula on-line do Capoeira Abolição, em cinco etapas"></a>
+
+Site do Centro Cultural de Capoeira Abolição, no bairro Bela Aurora, em Juiz de Fora, feito como projeto de extensão. Liderei a equipe e a migração de Nuxt para React. Tem matrícula on-line em cinco etapas, cadastro para cesta básica e página de doações.
+
+React, TypeScript, Vite e Tailwind. [Abrir o site](https://projeto-abolicao.vercel.app/)
+
 ### CampusBet
 
 <a href="https://campusbet-rust.vercel.app/"><img src="assets/campusbet.jpg" width="100%" alt="Página inicial do CampusBet, com placar ao vivo e odds"></a>
@@ -40,7 +48,6 @@ React, Vite e Context API. [Abrir o site](https://campusbet-rust.vercel.app/) | 
 
 - **[UniRide](https://github.com/joaooopedro/uniride-mobile)**: carona entre alunos da universidade, com pedido de vaga, chat e avaliação depois da viagem. React Native e Firebase.
 - **[Painel de Vendas](https://github.com/joaooopedro/painel-vendas-mvc)**: cadastro de departamentos, vendedores e vendas, com login e relatórios por período. ASP.NET MVC e SQL Server.
-- **Projeto Abolição**: site do Centro Cultural de Capoeira Abolição, com matrícula on-line. Liderei a equipe. React, TypeScript e Tailwind.
 
 ## Formação
 
